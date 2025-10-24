@@ -1,2 +1,3 @@
-# OhayoSekai
-Primeiro repositório git e github
+# Ohayo, Sekai!
+Fisrt Repository git and github
+Created on Octuber 24th 2025
